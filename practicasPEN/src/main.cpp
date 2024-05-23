@@ -1,6 +1,7 @@
 #include "../lib/tcalendario.cpp"
 #include "../lib/tvectorcalendario.cpp"
 #include "../lib/tabbcalendario.cpp"
+#include "../lib/tlistacalendario.cpp"
 
 
 
@@ -132,6 +133,9 @@ int main(){
 		cout << "Borrado el tc8del3: " << arbol << endl;
 		arbol.Insertar(tc8del3);
 	}
+
+	// EXAMEN JUNIO 23
+
 
 
 
